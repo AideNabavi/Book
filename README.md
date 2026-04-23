@@ -1,4 +1,4 @@
-# 📚 Web2 & Web3 Security Books Collection
+# 📚 Web2 & Web3 Security Books Collection.
 
 
 
