@@ -35,45 +35,32 @@ This repo is my personal library and open for everyone who wants to level up the
 
 ## 📘 Books List
 
+---
 
-### 🕵️‍♂️ Web2 
+### 🧠 Web3 Security & Blockchain Development
 
+| Title | Brief Description |
 |-------------|-------------|
-| 📘 *Book Title 1* | توضیح در مورد این کتاب و موضوعاتی که پوشش داده است. |
-| 📘 *Book Title 2* | مثلاً تمرکز بر تست نفوذ و امنیت وب. |
+| 📗 **Advanced Blockchain Development** | An in-depth guide to designing and developing blockchain applications and smart contracts for real-world projects, focusing on practical tools and development concepts. |
+| 📗 **Advanced Blockchain Technology Frameworks and Enterprise-Level Practices** | Explores advanced blockchain frameworks and implementation strategies for enterprises, ideal for developers and system architects. |
+| 📗 **Blockchain and Ethereum Smart Contract Solution Development** | A comprehensive introduction to Ethereum smart contract development and related tools, featuring project-based examples. |
+| 📗 **Blockchain A to Z Explained: Become a Blockchain Pro with 400+ Terms** | A comprehensive glossary and definitions in the blockchain space; an excellent resource for quickly understanding basic and advanced concepts. |
+| 📗 **Blockchain for Cybersecurity and Privacy: Internal Audit and IT Audit** | Examines the role of blockchain in cybersecurity and IT auditing, suitable for security and audit professionals. |
+| 📗 **Blockchain Security from the Bottom Up** | A step-by-step approach to understanding blockchain security principles, from data structures to smart contract protection. |
+| 📗 **Blockchain from Concept to Execution** | A detailed guide from initial concepts to the actual implementation of blockchain in projects, featuring practical and structured examples. |
 
 ---
 
-### 🧠 Web3 
+### 🕵️‍♂️ Web2 Security & Penetration Testing
 
+| Title | Brief Description |
 |-------------|-------------|
-| 📗 *Book Title 1* | راهنمای هک قراردادهای هوشمند و امنیت DeFi. |
-| 📗 *Book Title 2* | آموزش امنیت بلاک‌چین و تحلیل حملات. |
+| 📘 **Advanced Web Attacks and Exploitation (AWAE)** | A specialized book for identifying and exploiting advanced web vulnerabilities; aimed at penetration testers and ethical hackers. |
+| 📘 **Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities** | A complete guide to hunting security bugs in web applications; ideal for entering the bug bounty and practical security field. |
+| 📘 **The Web Application Hacker's Handbook (2nd Edition)** | One of the most referenced resources in web penetration testing; covers concepts from basics to advanced exploitation techniques. |
+| 📘 **HTTP: The Definitive Guide** | An in-depth explanation of the HTTP protocol and how it works in browsers and servers; an essential reference for understanding web security. |
+| 📘 **Black Hat Bash** | A collection of Bash techniques and scripts for automating penetration testing and performing attacks in Linux environments. |
+
 
 ---
-
-### 🪙 Blockchain Development
-
-|-------------|-------------|
-| 📙 *Book Title 1* | معرفی مفاهیم توسعه روی بلاک‌چین با Solidity یا Rust. |
-| 📙 *Book Tiین‌های عملی توسعه قرارداد هوشمند. |
-
----
-
-### 🧩 General Cybersecurity
-
-|-------------|-------------|
-| 📕 *Bo Title 1* | اصول کلی امنیت سایبری و cryptography. |
-| 📕 *Book Title 2* | آموزش مبانی red team و blue team. |
-
----
-
-### 🧾 Guides & Notes
-
-|-------------|-------------| 📘 *Guide 1* | چیت‌شیت‌ها یا خلاصه‌نویسی‌های کلیدی. |
-| 📘 *Guide 2* | تمرین و لاب‌های آموز برای تقویت مهارت. |
-
----
-
-
 
